@@ -3,7 +3,7 @@ Ich habe keine richtige Erfahrungen mit Github (was das Hochladen von Projekten 
 Daher das ich noch zur Schule gehe, wird es schwierig Updates
 zu den Projekt veröffentlichen.
 
-Die Binär-Dateien sind nicht mit drin. Lese dafür README.md um mehr zu erfahren.
+Die Binär-Dateien und der .git-Ordner sind nicht mit drin. Lese dafür README.md um mehr zu erfahren.
 
 Genutzt wurde hier:
 - WSL2 Ubuntu 24.04.1 auf Windows 11
