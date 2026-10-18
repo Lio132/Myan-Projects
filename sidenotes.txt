@@ -11,3 +11,9 @@ Genutzt wurde hier:
 
 Quellen:
 - keine
+
+Ich habe es noch nicht z.B. auf Ubuntu getestet. Es könnte sein das der Packet-Manager paar Packete nicht findet.
+Es gibt noch kein MacOS Version.
+
+Was hier noch sein könnte (in der Zukunft), dass ich meine (KI-Generierte) Window-Manager.
+Wenn ich die Basics verstanden habe, mache ich es ohne KI.
